@@ -1,0 +1,92 @@
+
+@font-face {
+  font-family: 'Sifonn Pro';
+  font-style: normal;
+  font-weight: normal;
+  src: url('/static/fonts/SIFONN_PRO.woff');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('/static/fonts/Montserrat-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+.touch, .no-touch {
+  height: 100vh;
+  background: rgb(188,24,35);
+  background: linear-gradient(170deg, rgba(188,24,35,1) 0%, rgba(27,4,6,1) 100%);
+}
+
+html, body {
+  font-family: 'Sifonn Pro', 'Roboto';
+}
+
+
+.main-title {
+  color: white;
+  font-size: 3em;
+}
+
+.main-subtitle {
+  font-size: 1.2em;
+  color: white;
+  font-family: 'Montserrat' !important;
+  font-weight: bolder
+}
+
+.register-button {
+  margin-top: 20px !important;
+}
+
+
+.no-link {
+  text-decoration:none;
+}
+
+
+// Iphone 5 portrait
+@media only screen 
+  and (width : 320px) 
+  and (orientation : portrait) {
+
+    .main-title {
+      font-size: 2em;
+    }
+    
+    .main-subtitle {
+      font-size: 1em;
+    }
+
+    .register-button {
+      margin-top:0px !important;
+    }
+ }
+
+// Iphone X portrait
+@media only screen 
+    and (width : 375px) 
+    and (height : 812px)
+    and (orientation : portrait)  
+    and (-webkit-device-pixel-ratio : 3) { 
+
+    }
+
+
+// Ipad portrait 
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)  { 
+
+  .main-title {
+    font-size: 3.5em;
+  }
+  
+  .main-subtitle {
+    font-size: 2em;
+  }
+
+}
