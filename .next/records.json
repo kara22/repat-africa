@@ -33,18 +33,21 @@
       "static/_574u5iK8i97pSYpqawnq/pages/index.js": 4,
       "static/runtime/main.js": 5,
       "static/runtime/polyfills.js": 6,
-      "styles": 7
+      "styles": 7,
+      "static/e-XaxM3wz_ip6_tLnjKDm/pages/_app.js": 8,
+      "static/e-XaxM3wz_ip6_tLnjKDm/pages/_error.js": 9,
+      "static/e-XaxM3wz_ip6_tLnjKDm/pages/index.js": 10
     },
     "bySource": {},
     "usedIds": [
       0,
       1,
-      2,
-      3,
-      4,
+      10,
       5,
       6,
-      7
+      7,
+      8,
+      9
     ]
   }
 }

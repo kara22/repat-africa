@@ -9,7 +9,7 @@ const Content = () => (
     >
       <Grid item xs={12} align="center">
         <h1 className="main-title">
-          Contribuez à l'Afrique de demain
+          Participons à l'Afrique de demain
         </h1>
       </Grid>
       <Grid item xs={12} align="center">
