@@ -28,11 +28,11 @@
     "byName": {
       "static/runtime/webpack.js": 0,
       "commons": 1,
-      "static/runtime/main.js": 2,
-      "static/runtime/polyfills.js": 3,
-      "static/w5mV6saEGRi9eVXM3ImfZ/pages/_app.js": 4,
-      "static/w5mV6saEGRi9eVXM3ImfZ/pages/_error.js": 5,
-      "static/w5mV6saEGRi9eVXM3ImfZ/pages/index.js": 6,
+      "static/_574u5iK8i97pSYpqawnq/pages/_app.js": 2,
+      "static/_574u5iK8i97pSYpqawnq/pages/_error.js": 3,
+      "static/_574u5iK8i97pSYpqawnq/pages/index.js": 4,
+      "static/runtime/main.js": 5,
+      "static/runtime/polyfills.js": 6,
       "styles": 7
     },
     "bySource": {},

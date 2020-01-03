@@ -14,14 +14,12 @@
 }
 
 
-.touch, .no-touch {
+html, body {
+  font-family: 'Sifonn Pro', 'Roboto';
   height: 100vh;
   background: rgb(188,24,35);
   background: linear-gradient(170deg, rgba(188,24,35,1) 0%, rgba(27,4,6,1) 100%);
-}
 
-html, body {
-  font-family: 'Sifonn Pro', 'Roboto';
 }
 
 
